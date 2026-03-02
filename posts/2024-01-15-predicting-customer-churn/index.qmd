@@ -1,0 +1,13 @@
+---
+title: "Predicting Customer Churn with Logistic Regression"
+author: "Your Name"
+date: 2024-01-15
+categories: [machine-learning, python, classification]
+description: >
+  An end-to-end analysis exploring what drives customer churn
+  using a telecom dataset, with actionable recommendations.
+---
+
+# Introduction
+
+This is my cool post.
