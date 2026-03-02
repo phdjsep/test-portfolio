@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
     "section": "",
-    "text": "Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?"
+    "text": "Predicting Customer Churn with Logistic Regression\n\n\nAn end-to-end analysis exploring what drives customer churn using a telecom dataset, with actionable recommendations.\n\n\n\n\n\nJan 15, 2024\n\n\nYour Name\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2024-01-15-predicting-customer-churn/index.html",
+    "href": "posts/2024-01-15-predicting-customer-churn/index.html",
+    "title": "Predicting Customer Churn with Logistic Regression",
+    "section": "",
+    "text": "Introduction\nThis is my cool post."
   },
   {
     "objectID": "index.html",
@@ -19,5 +26,19 @@
     "title": "Welcome!",
     "section": "Next Steps",
     "text": "Next Steps\n\nEdit about.qmd with your info\nCreate a project post in posts/\nPush to main and your site will auto-deploy"
+  },
+  {
+    "objectID": "my-first-project/index.html",
+    "href": "my-first-project/index.html",
+    "title": "Predicting Customer Churn with Logistic Regression",
+    "section": "",
+    "text": "Introduction\nThis is my cool post."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?"
   }
 ]
